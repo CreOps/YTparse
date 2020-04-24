@@ -1,0 +1,9 @@
+.btnSeek {
+	cursor:help;
+}
+.btnSeek:active {
+    background-color: lightgrey;
+}
+.btnSeek:hover {
+    background-color: lightskyblue;
+}
